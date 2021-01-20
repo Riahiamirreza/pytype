@@ -1,5 +1,5 @@
 # pytype
-a very simple terminal for increasing typing speed!
+a very simple game for increasing typing speed!
 
 use pyword.py to add new words to words.data
 
